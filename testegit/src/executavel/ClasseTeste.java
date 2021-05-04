@@ -6,7 +6,6 @@ public class ClasseTeste {
 		// TODO Auto-generated metgit satuahod stub
 		System.out.println("teste mudança git 2");
 		System.out.println("teste mudança git 3");
-		System.out.println("teste mudança git 4");
 	}
 
 }
