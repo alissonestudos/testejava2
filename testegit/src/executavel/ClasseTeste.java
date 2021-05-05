@@ -9,6 +9,7 @@ public class ClasseTeste {
 		System.out.println("teste mudança git 2");
 		System.out.println("teste mudança git 3");
 		System.out.println("teste branch development");
+		System.out.println("teste branch development 2");
 		
 		Pessoa pessoa1 = new Pessoa("Alisson", 0);
 		
